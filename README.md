@@ -25,7 +25,7 @@ Professional chess player and Computer Science student passionate about solving 
 [Coming Soon]
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Davyy191119/&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Davyy191119&show_icons=true&theme=radical)
 
 ## 🎮 Fun Facts
 - Professional chess player who codes
