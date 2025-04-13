@@ -11,8 +11,8 @@
 - 🔭 I'm currently working on [A task manager app ]
 - 🌱 I'm currently learning [machine learning and neural networks]
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about [frontend Development ]
-- 📫 How to reach me: [Your Email or Social Media]
+- 💬 Ask me about [object_oriented concepts and programing ]
+- 📫 How to reach me: [ndikimuchiri@gmail.com]
 - ⚡ Fun fact: [2200 rated chess player]
 
 ---
