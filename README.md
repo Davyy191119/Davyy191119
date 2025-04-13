@@ -43,7 +43,7 @@
 ### 🏆 Featured Projects
 
 <a href="https://github.com/Davyy191119/kyu-chess-club">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davyy191119&kyu-chess-club&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davyy191119&repo=kyu-chess-club&theme=radical" />
 </a>
 <a href="https://github.com/Davyy191119/gradle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davyy191119&repo=gradle&theme=radical" />
