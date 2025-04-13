@@ -1,54 +1,68 @@
-### 👋 Hi there! I'm [David]
+# 👋 Hello, I'm [David]
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=[Davyy191119]&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Davyy191119]&layout=compact&theme=dark&hide_border=true)](https://github.com/[Davyy191119]/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Davyy191119]&show_icons=true&theme=dark&hide_border=true)](https://github.com/[Davyy191119]/)
+## 👨‍💻 Software Developer | Problem Solver | Tech Enthusiast
 
-<br>
-
-A passionate software developer, data scientist and creative coder exploring the exciting intersection of  e web development and machine learning, design and accessibility, cloud technologies and automation  methodiacal problem solving and chess I'm driven by a curiosity to build elegant and efficient solutions, unlock insights from data, create intuitive and engaging experiences
-
-Currently, I'm diving deep into  mastering React hooks, exploring the world of serverless functions, building a personal portfolio
-
-<br>
-
-### 🌱 What I'm Currently Up To:
-
-* [A task management app ]
-* [Machine Learning]
-* [Comuter society of kirinyaga]
-
-### 🔭 What I'm Exploring:
-
-* [Chess as a solutions base]
-* [laravel and postman Apis]
-* [A chess kenya Multi-platform application]
-
-### 🛠️ Technologies I Enjoy Working With:
-
-* **Languages:** [JavaScript, Python, Java ,Typescript,SQL,php,html,css,C,C++]
-* **Frameworks/Libraries:** [ React, Node.js, Express, TensorFlow]
-* **Tools:** [Git, Docker, VS Code, Figma]
-* **Other:** [Cloud platforms (AWS, Azure, GCP), Databases (SQL, NoSQL)]
-
-### <0xF0><0x9F><0xA7><0xAE> Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ndiki-muchiri-a089bb315/])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([toxickenyan254])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-%23555555?style=for-the-badge&logo=globe&logoColor=white)]([Your Portfolio URL])
-[![Email](https://img.shields.io/badge/Email-me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ndikimuchiri@gmail.com])
-[![[Another Platform, e.g., Dev.to]](https://img.shields.io/badge/[Platform Name]-[Color Code]?style=for-the-badge&logo=[Platform Logo]&logoColor=white)]([Your Profile URL on that platform])
-
-<br>
-
-### ✨ A Little More About Me:
-
-Beyond the code, I'm also interested in [photography, hiking, playing music]. I believe in [continuous learning, building inclusive communities, the power of open source].
-
-I'm always open to connecting with fellow enthusiasts, collaborators, and anyone with interesting ideas! Feel free to reach out.
-
-<br>
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ---
 
-Thanks for stopping by! 👋
+### 🚀 About Me
+
+- 🔭 I'm currently working on [A task manager app ]
+- 🌱 I'm currently learning [machine learning and neural networks]
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about [frontend Development ]
+- 📫 How to reach me: [Your Email or Social Media]
+- ⚡ Fun fact: [2200 rated chess player]
+
+---
+
+### 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<!-- Add or remove technologies as needed -->
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davyy191119&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davyy191119&layout=compact&theme=radical)
+
+---
+
+### 🏆 Featured Projects
+
+<a href="https://github.com/Davyy191119/kyu-chess-club">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davyy191119&kyu-chess-club&theme=radical" />
+</a>
+<a href="https://github.com/Davyy191119/gradle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davyy191119&repo=gradle&theme=radical" />
+</a>
+
+---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Davyy191119&theme=react-dark)](https://github.com/Davyy191119)
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndiki-muchiri-a089bb315/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/toxickenyan254)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://YourPortfolio.com)
+
+---
+
+⭐️ From [YourUsername](https://github.com/Davyy191119)
