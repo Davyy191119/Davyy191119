@@ -1,8 +1,8 @@
-### 👋 Hi there! I'm [Davvid]
+### 👋 Hi there! I'm [David]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=[Davyy191119]&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Davyy191119]&layout=compact&theme=dark&hide_border=true)](https://github.com/[Davyy191119]/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Davyy191119]&show_icons=true&theme=dark&hide_border=true)](https://github.com/[Davyy191119]/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=dark&hide_border=true)](https://github.com/[Davyy191119]/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=dark&hide_border=true)](https://github.com/[Davyy191119]/)
 
 <br>
 
