@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [David]
+# 👋 Hello, I'm David
 
 ## 👨‍💻 Software Developer | Problem Solver | Tech Enthusiast
 
@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on [A task manager app ]
-- 🌱 I'm currently learning [machine learning and neural networks]
+- 🔭 I'm currently working on A task manager app 
+- 🌱 I'm currently learning machine learning and neural networks
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about [object_oriented concepts and programing ]
-- 📫 How to reach me: [ndikimuchiri@gmail.com]
-- ⚡ Fun fact: [2200 rated chess player]
+- 💬 Ask me about object_oriented concepts and programing 
+- 📫 How to reach me: ndikimuchiri@gmail.com
+- ⚡ Fun fact: 2200 rated chess player
 
 ---
 
@@ -51,11 +51,7 @@
 
 ---
 
-### 📈 Activity Graph
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Davyy191119&theme=react-dark)](https://github.com/Davyy191119)
-
----
 
 ### 🤝 Connect with Me
 
@@ -65,4 +61,4 @@
 
 ---
 
-⭐️ From [YourUsername](https://github.com/Davyy191119)
+⭐️ From (https://github.com/Davyy191119)
